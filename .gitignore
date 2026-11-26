@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+work/cookies.txt
+work/status.json
+work/last_run.log
+work/*.mp3
+work/*.webm
+work/*.bin
+work/*.info.json
+
+episodes/
+out/
